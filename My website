@@ -1,0 +1,13 @@
+<html>
+	<head>
+	<title>
+	about my website
+	</title>
+	</head>
+	<body>
+	<h1>Welcome to my website </h1>
+	<img width="80%" src="welcome.jpg">
+	<p>Welcome to my website, a digital realm where ideas thrive and stories unfold. Here, each click unveils a new chapter, inviting you on a journey through knowledge and inspiration. Join me as we navigate this virtual landscape, where information meets creativity and curiosity knows no bounds. Embrace the richness within these pages and discover a world waiting to be explored. Welcome, dear visitor, to a space crafted with passion and purpose.</p>
+        <a href=Nature>click here</a>
+	</body>
+</html>
